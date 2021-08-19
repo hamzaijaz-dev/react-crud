@@ -11,7 +11,7 @@ export default function Header() {
               <div className="logo">
                 <a href="/">
                   {/*<img src="assets/img/logo/logo.png" alt="" />*/}
-                  <h2>CRUD Application</h2>
+                  <h2>React CRUD</h2>
                 </a>
               </div>
               <div className="main-menu d-none d-lg-block">
