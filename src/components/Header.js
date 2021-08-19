@@ -29,6 +29,7 @@ export default function Header() {
                     <li>
                       <Link to="/contact">Contact</Link>
                     </li>
+
                     {/*<li className="hot">*/}
                     {/*  <a href="#">Latest</a>*/}
                     {/*  <ul className="submenu">*/}
