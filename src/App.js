@@ -8,7 +8,6 @@ import Header from "./components/Header";
 import About from "./pages/About";
 import Home from "./pages/Home";
 import Counter from "./pages/Counter";
-import Contact from "./pages/Contact";
 import "./App.css";
 export default function App() {
   return (
@@ -19,9 +18,6 @@ export default function App() {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
-          <Route path="/contact">
-            <Contact />
-          </Route>
           <Route path="/about">
             <About />
           </Route>

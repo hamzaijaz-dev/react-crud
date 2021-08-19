@@ -26,10 +26,6 @@ export default function Header() {
                     <li className="hot">
                       <Link to="/about">About</Link>
                     </li>
-                    <li>
-                      <Link to="/contact">Contact</Link>
-                    </li>
-
                     {/*<li className="hot">*/}
                     {/*  <a href="#">Latest</a>*/}
                     {/*  <ul className="submenu">*/}
